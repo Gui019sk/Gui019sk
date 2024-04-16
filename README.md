@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=008080&text=Guilherme%20Schiavon&section=header&fontSize=50&fontColor=ffffff"/>
 
-
 <div align="left">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+a+systems+developer;+and+ethical+hacker)](https://git.io/typing-svg) <br><hr>
