@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wordpress)](https://skillicons.dev)<br>
 <p><b>Frameworks:<b> </p>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)<br>
 <p><b>Perfis:</b></p>
 
 [![My Skills](https://skillicons.dev/icons?i=discord,github,instagram,linkedin)](https://skillicons.dev)<br>
